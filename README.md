@@ -37,13 +37,15 @@ Import the working directories inside the VM:
 $ ./importProjects.sh
 ```
 
+Working directories made with cargo (https://doc.rust-lang.org/cargo/guide/creating-a-new-project.html).
+
 ## Description of the project in two parts
 
 The goal of this project is to build a rest API and to interact with it with another program.
 
 ## Api-call
 
-Source: https://github.com/seanmonstar/reqwest
+Source: https://github.com/seanmonstar/reqwest.
 
 ```bash
 $ cd Rust-Projects/api-call
@@ -52,7 +54,7 @@ $ cargo run
 
 ## Rest-api
 
-Source: https://medium.com/better-programming/rest-api-in-rust-step-by-step-guide-b8a6c5fcbff0
+Source: https://medium.com/better-programming/rest-api-in-rust-step-by-step-guide-b8a6c5fcbff0.
 
 ```bash
 $ cd Rust-Projects/rest-api
