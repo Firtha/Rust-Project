@@ -15,12 +15,4 @@ sudo apt install -y libsqlite3-dev
 cp /vagrant/importProjects.sh .
 cp /vagrant/exportProjects.sh .
 
-# >> Manual commands (https://www.cloudbooklet.com/install-rust-on-ubuntu-18-04-lts/)
-# curl https://sh.rustup.rs -sSf | sh
-# >> Use 1) Proceed with installation (default)
-# source $HOME/.cargo/env
-# rustc --version
-
 # >> Use importProjects and exportProjects for managing the working directory from host <> VM
-
-# >> Rust package creation (https://doc.rust-lang.org/cargo/guide/creating-a-new-project.html)
